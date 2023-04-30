@@ -1,0 +1,12 @@
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\bin\Debug\net6.0\StreetLibrary.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\bin\Debug\net6.0\StreetLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\bin\Debug\net6.0\StreetLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\StreetLibrary.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\StreetLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\StreetLibrary.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\StreetLibrary.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\StreetLibrary.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\StreetLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\refint\StreetLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\StreetLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw0220230426\v02\Server\StreetLibrary\obj\Debug\net6.0\ref\StreetLibrary.dll
